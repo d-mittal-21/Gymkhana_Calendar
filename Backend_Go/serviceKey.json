@@ -1,0 +1,15 @@
+
+{
+  "_comment" : "Firebase Details",
+  "type": "service_account",
+  "project_id": "gymkhanacalendar",
+  "private_key_id": "392f09a31d5dd00f1ad3a4995ea1a40312a7419c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD6OlVBXVnF2g1M\nnASVXRTSZnbl9C7Dur5X1qVo0q0Ffl18ZkGgVWLYUVry5y5yiQQ2ipv5vLHAlisX\n80neFHGKVqGHvbgpDS/8Twv54bNyC3s/m332xauu5yCfogisdJw1mGq9K8UDBHlH\nYmlQ45tyxIQNXrbs8LmgwfN3h5ynSdnLy0tCFZ0II8T1gHq+qgpKtzVq3guIYU/O\nGRS0oTHZeRxm2xcBSvkDaXwUvbNQBYpZqg+X1WbcPuWU9BGYDbh8w0NDaAjiHX/x\nVZ2htHKadBD3elBJMXkcBbxuQzbAvSIztyqUF964j1BMBMNN/qdgxnSiILpcfY4+\n65wNPTwxAgMBAAECggEAJnLMIs0LPEFzBbB7a8/voRypbFAG14BcOvb6V473kv6F\nstWrg81a8M4fYW9wTZ0MDq1hpg/+aA8q8/UoBn2xrIX/L/JQ183075ndxzmM7xsg\nhveHdWGOLcPJ2X12Q7lvPzT6QbL2BK6tS/CtKgavHgVgHQXOqb2baD4lANrPkUyT\n6A06dMcU/t5vrgEy9BC4fxZJfsEuVvnygkeC1aevxtS722le3/2mF+2Mc0SvvNQU\ndibk95R04xOiSJ9cR2JPvj8spMfVIoW638Nm9ycSBa2gM/z4+RG5Zt9F5z7KZ//X\nsb1qx2esDpsMm9TSEtBQyS10xsRoqDUi4AjR2O15oQKBgQD/jj7eh+h44C1zEOYJ\n0zn9fs+x15iRAn2wbrUlVEbIBwdUsVOcDsVwgCbkMkQqij9kD5JulG5cig0jzbL5\n31L3W/0Rgu9bNc+8tsV+DOPxUrJKKvY7I/MoXesYB4ZyIAZdSC4GDRv9lf84O4bZ\nklur2xrqsYiOcMiT05IS2/wdTQKBgQD6qbdF++DuhE87daOemKv7G46fqmNl4FVf\ntcYjNSxc8gFysa9IrcRf2SUYF7r+8lFt+UQ92vH8P8aLA0JkRhymxs7DrO9myZFm\njYiUdTBD8XvEa0WsJsBCy9CX7mwwZa14+DfudYhtGgs1H/aEgvyHdT3EgaxfDeEi\nWmAmDYc4dQKBgQDWO80AiDaefnAbciMmQWjv1YsPr4k6pzfu3CAHdysPLLU8jptk\nzA1ATm5MBseWUebqXxOGl/Acq65wQVS0nD7VFsyEDZvSfr3zmdTd4riD6auE+ZcJ\n5Q1G3dTjhAt1SNuM/6F1eS/p2gDmhyB47HTlEPzzmni70FiVdFuUa85iUQKBgEXC\ne9YHPldDDUXv/GRD+wD8b1nyMo2EvF3Rmd3si3cmhs6jsrOYYKGILjGhURJo386q\nY5qPV28rVJcVhiGf/ZNQmvSMKWhCyqtu0kb2wkL2bsqATDiX5EPysw/Fc+iYM4oK\nEo7TuO8cI2hah+HjDmKod1M7/3vIwhIscrvEYhCNAoGBAJRAvF4hcCECZd6w+xtY\n7vRqJ8SkXe7n/gFryNJI1olTH4D8XwanwTofIEHy1lIkPsIrLTybcImrH7Z6dV0E\n+WPFbg4T6c2/qpR0ahIaxpeh9Ry/hLSDWkF8+n8cXGd69zum9og+77WZc7PCFYdP\nIwipEjWxVSfSl8mxWjg186IB\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-hm9dl@gymkhanacalendar.iam.gserviceaccount.com",
+  "client_id": "104876779431252809109",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hm9dl%40gymkhanacalendar.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
