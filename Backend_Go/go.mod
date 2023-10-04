@@ -1,4 +1,4 @@
-module github.com/d-mittal-21/GymkhanaCalendar
+module github.com/d-mittal-21/GymkhanaCalendar/Backend_Go
 
 go 1.20
 

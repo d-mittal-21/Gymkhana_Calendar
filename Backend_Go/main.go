@@ -8,7 +8,7 @@ import (
 	firebase "firebase.google.com/go"
 
 	//"firebase.google.com/go/auth"
-	"github.com/d-mittal-21/GymkhanaCalendar/handlers"
+	"github.com/d-mittal-21/GymkhanaCalendar/Backend_Go/handlers"
 	"github.com/gin-gonic/gin"
 	"google.golang.org/api/option"
 )
@@ -31,6 +31,12 @@ func main() {
 
 	//get all the events
 	r.GET("/api/event", handlers.ListEventHandler(client))
+
+	//update an event
+	r.PATCH("/api/event/:title", handlers.UpdateEventHandler(client))
+
+	//delete an event
+	r.DELETE("/api/event/:title", handlers.DeleteEventHandler(client))
 
 	r.Run("127.0.0.1:3000")
 
