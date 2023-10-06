@@ -50,6 +50,6 @@ func TestCreateEventHandler(t *testing.T) {
 	assert.Equal(t, "Example Event", responseEvent.Title)
 	assert.Equal(t, "This is an example event", responseEvent.Description)
 	assert.Equal(t, "Example Venue", responseEvent.Venue)
-	assert.Equal(t, "https://example.com", responseEvent.Link)
+	assert.Equal(t, "https://example.com", responseEvent.RegLink)
 
 }

@@ -11,5 +11,5 @@ type Event struct {
 	Start       time.Time `json:"start"`
 	End         time.Time `json:"end"`
 	Venue       string    `json:"venue"`
-	Link        string    `json:"link"`
+	RegLink        string    `json:"reglink"`
 }

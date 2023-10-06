@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"cloud.google.com/go/firestore"
-	"github.com/d-mittal-21/GymkhanaCalendar/types"
+	"github.com/d-mittal-21/GymkhanaCalendar/Backend_Go/types"
 	"github.com/gin-gonic/gin"
 	"google.golang.org/api/iterator"
 )
@@ -33,7 +33,7 @@ func ListEventHandler(client *firestore.Client) func(c *gin.Context) {
 					Description: doc.Data()["desc"].(string),
 					Start:       doc.Data()["start"].(time.Time),
 					End:         doc.Data()["end"].(time.Time),
-					Link:        doc.Data()["link"].(string),
+					RegLink:        doc.Data()["reglink"].(string),
 				})
 		}
 
